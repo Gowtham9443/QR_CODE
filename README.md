@@ -1,7 +1,5 @@
-# Firebase Studio
+# QR_CODE 
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
-
-# Live Demo 
+## RUN COMMAND 
+npm install 
+npm run dev

@@ -2,4 +2,4 @@
 
 ## RUN COMMAND 
 * npm install 
-* npm run dev
+* npm run dev   
